@@ -1,0 +1,211 @@
+body {
+	background-color: hsl(0, 0%, 8%);
+	font-family: Inter;
+}
+.links {
+	font-size: 21px;
+	line-height: 1.9em;
+	font-weight: bold;
+}
+.block {
+	width: 450px;
+	height: 680px;
+	background-color: hsl(0, 0%, 12%);
+	border: 0px;
+	border-radius: 15px;
+	display: flex;
+	flex-direction: column;
+	position: relative;
+	left: 650px;
+	top: 80px;
+}
+.block h1 {
+	position: relative;
+	top: 70px;
+	color: white;
+	text-align: center;
+}
+.block img {
+	position: relative;
+	max-width: 25%;
+	top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	border: 0px;
+	border-radius: 50%;
+}
+.block p {
+	position: relative;
+	top: 50px;
+	color: hsl(75, 94%, 57%);
+	text-align: center;
+	text-decoration: solid;
+}
+.block h4 {
+	position: relative;
+	top: 40px;
+	color: white;
+	text-align: center;
+}
+
+.links #gthb {
+	width: 350px;
+	height: 40px;
+	background-color: hsl(0, 0%, 20%);
+	border: 0px;
+	border-radius: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	display: grid;
+	position: relative;
+	top: 40px;
+	margin-bottom: 20px;
+	color: white;
+  text-decoration: solid;
+}
+.links #frn {
+	width: 350px;
+	height: 40px;
+	background-color: hsl(0, 0%, 20%);
+	border: 0px;
+	border-radius: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	display: grid;
+	position: relative;
+	top: 40px;
+	margin-bottom: 20px;
+	color: white;
+  text-decoration: solid;
+}
+.links #vk {
+	width: 350px;
+	height: 40px;
+	background-color: hsl(0, 0%, 20%);
+	border: 0px;
+	border-radius: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	display: grid;
+	position: relative;
+	top: 40px;
+	margin-bottom: 20px;
+	color: white;
+	text-decoration: solid;
+}
+.links #ytb {
+	width: 350px;
+	height: 40px;
+	background-color: hsl(0, 0%, 20%);
+	border: 0px;
+	border-radius: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	display: grid;
+	position: relative;
+	top: 40px;
+	margin-bottom: 20px;
+	color: white;
+	text-decoration: solid;
+}
+.links #jts {
+	width: 350px;
+	height: 40px;
+	background-color: hsl(0, 0%, 20%);
+	border: 0px;
+	border-radius: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	display: grid;
+	position: relative;
+	top: 40px;
+	margin-bottom: 20px;
+	color: white;
+	text-decoration: solid;
+}
+#gthb:hover {
+	width: 350px;
+	height: 40px;
+	background-color: hsl(75, 94%, 57%);
+	border: 0px;
+	border-radius: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	display: grid;
+	position: relative;
+	top: 40px;
+	margin-bottom: 20px;
+	color: hsl(0, 0%, 20%);
+	text-decoration: solid;
+}
+
+#frn:hover {
+	width: 350px;
+	height: 40px;
+	background-color: hsl(75, 94%, 57%);
+	border: 0px;
+	border-radius: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	display: grid;
+	position: relative;
+	top: 40px;
+	margin-bottom: 20px;
+	color: hsl(0, 0%, 20%);
+	text-decoration: solid;
+}
+#vk:hover {
+	width: 350px;
+	height: 40px;
+	background-color: hsl(75, 94%, 57%);
+	border: 0px;
+	border-radius: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	display: grid;
+	position: relative;
+	top: 40px;
+	margin-bottom: 20px;
+	color: hsl(0, 0%, 20%);
+	text-decoration: solid;
+}
+#ytb:hover {
+	width: 350px;
+	height: 40px;
+	background-color: hsl(75, 94%, 57%);
+	border: 0px;
+	border-radius: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	display: grid;
+	position: relative;
+	top: 40px;
+	margin-bottom: 20px;
+	color: hsl(0, 0%, 20%);
+	text-decoration: solid;
+}
+#jts:hover {
+	width: 350px;
+	height: 40px;
+	background-color: hsl(75, 94%, 57%);
+	border: 0px;
+	border-radius: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	display: grid;
+	position: relative;
+	top: 40px;
+	margin-bottom: 20px;
+	color: hsl(0, 0%, 20%);
+	text-decoration: solid;
+}
